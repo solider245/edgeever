@@ -159,7 +159,6 @@
     "dexie": "latest",
     "fast-xml-parser": "^5.9.3",
     "fflate": "^0.8.3",
-    "graceful-fs": "^4.2.11",
     "hono": "latest",
     "i18next": "^26.3.4",
     "katex": "0.16.22",
